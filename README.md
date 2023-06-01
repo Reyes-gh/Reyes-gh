@@ -1,9 +1,5 @@
 ![image (2)](https://user-images.githubusercontent.com/92784870/224162512-4e91ca22-1926-4f44-bcb5-b19055f87dc7.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyes-gh&label=Profile%20views&color=0e75b6&style=flat" alt="reyes-gh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reyes-gh" alt="reyes-gh" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -14,6 +10,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyes-gh&show_icons=true&locale=en&layout=compact" alt="reyes-gh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reyes-gh&show_icons=true&locale=en" alt="reyes-gh" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyes-gh&label=Profile%20views&color=0e75b6&style=flat" alt="reyes-gh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reyes-gh" alt="reyes-gh" /></a> </p>
 
 
 
