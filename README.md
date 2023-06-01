@@ -11,7 +11,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=reyes-gh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Steins;Gate
-The universe has a beginning, but no end. — Infinity. Stars, too, have their own beginnings, but their own power results in their destruction. — Finite.
+The universe has a beginning, but no end. — Infinity. 
+Stars, too, have their own beginnings, but their own power results in their destruction. — Finite.
 ---
 [![](https://visitcount.itsvg.in/api?id=reyes-gh&icon=9&color=1)](https://visitcount.itsvg.in)
 
