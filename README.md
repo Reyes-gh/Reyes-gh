@@ -12,5 +12,6 @@
 ## ✍️ Steins;Gate
 ### The universe has a beginning, but no end. — Infinity. <br/>
 ### Stars, too, have their own beginnings, but their own power results in their destruction. — Finite.
+---
 ## 💰
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/areygim) 
