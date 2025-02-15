@@ -4,7 +4,6 @@
 # 📊 GitHub Stats:
 <p align="center">
 <img width=33% src="https://github-readme-stats.vercel.app/api?username=reyes-gh&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-<img width=33% src="https://github-readme-streak-stats.herokuapp.com/?user=reyes-gh&theme=radical&hide_border=false"/>
 <img width=33% src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyes-gh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
