@@ -11,7 +11,7 @@
 <img width=40% src="https://github-readme-stats.vercel.app/api?username=Reyes-gh&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
 </p>
 
-### The universe has a beginning, but no end. — Infinity. <br/>
-### Stars, too, have their own beginnings, but their own power results in their destruction. — Finite.
+#### The universe has a beginning, but no end. — Infinity. <br/>
+#### Stars, too, have their own beginnings, but their own power results in their destruction. — Finite.
 
 ![majora](https://github.com/Reyes-gh/Reyes-gh/assets/92784870/79dd511f-342d-4fec-90ac-b3cbb6df01e7)
